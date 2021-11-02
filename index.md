@@ -1,23 +1,12 @@
 ---
 layout: page
-title: Template Hackathon
+title: QWorld QWHACK 2021
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
-
-<!-- REMOVE THIS SECTION when you use this template -->
-<div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
-
-For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
-</div>
-<!-- END of section to remove -->
+# {{ site.event_date }}, in association with QWorld
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -46,8 +35,8 @@ or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-t
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+A 7 day hackathon on Quantum computing and technologies organised by QWorld
+{{ site.event_date }}, Open for students, researches, academia and industry.
 
 Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
 ... to ..., and more. Teams will be led by senior academics from a range of
