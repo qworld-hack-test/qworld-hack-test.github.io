@@ -1,20 +1,20 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: QWorld QWHACK 2021
+nav_title: QWHack2021 Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> QWorld</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 27–30 November 2021
+registration_opens_date: 17 November 2021
+registration_closes_date: 25 November 2021
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: QWorld
+mailbox_address: https://qworld.net/
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+  The event aimed to bring together people who are interested in developing quantum programming and want to meet this
+  field through project-based learning. The hackathon was attended by those who know quantum programming,
+  but also people interested in the subject and wanted willing to learn this subject from teammates.
 
-url: "https://jean-golding-institute.github.io/hackathon-template"
-github_repo: jean-golding-institute
+url: "https://qworld-hack-test.github.io/"
+github_repo: qworld-hack-test
 
 theme: minima
 
